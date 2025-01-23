@@ -1,0 +1,153 @@
+Title: PHF10
+
+PHF10, BAF45A, XAP135, PHD finger protein 10, SMARCG4
+
+OMIM: 613069; MGI: 1919307; HomoloGene: 10112; GeneCards: PHF10; OMA:PHF10 - orthologs
+
+Gene location (Human)Chr.Chromosome 6 (human)Band6q27Start169,703,902 bpEnd169,725,566 bp
+
+Chromosome 6 (human)
+
+6q27
+
+169,703,902 bp
+
+169,725,566 bp
+
+Gene location (Mouse)Chr.Chromosome 17 (mouse)Band17|17 A2Start15,165,271 bpEnd15,181,535 bp
+
+Chromosome 17 (mouse)
+
+17|17 A2
+
+15,165,271 bp
+
+15,181,535 bp
+
+RNA expression patternBgeeHumanMouse (ortholog)Top expressed inventricular zoneleft ovaryright adrenal cortexright ovaryleft adrenal cortexC1 segmentSkeletal muscle tissue of rectus abdominisgastric mucosaright lungbody of pancreasTop expressed infetal liver hematopoietic progenitor cellcalvariatail of embryospermatocyteseminiferous tubuleabdominal wallvas deferenshuman fetusventricular zoneprimitive streakMore reference expression dataBioGPSMore reference expression data
+
+HumanMouse (ortholog)Top expressed inventricular zoneleft ovaryright adrenal cortexright ovaryleft adrenal cortexC1 segmentSkeletal muscle tissue of rectus abdominisgastric mucosaright lungbody of pancreasTop expressed infetal liver hematopoietic progenitor cellcalvariatail of embryospermatocyteseminiferous tubuleabdominal wallvas deferenshuman fetusventricular zoneprimitive streakMore reference expression data
+
+Top expressed inventricular zoneleft ovaryright adrenal cortexright ovaryleft adrenal cortexC1 segmentSkeletal muscle tissue of rectus abdominisgastric mucosaright lungbody of pancreas
+
+Top expressed in
+
+ventricular zoneleft ovaryright adrenal cortexright ovaryleft adrenal cortexC1 segmentSkeletal muscle tissue of rectus abdominisgastric mucosaright lungbody of pancreas
+
+Top expressed infetal liver hematopoietic progenitor cellcalvariatail of embryospermatocyteseminiferous tubuleabdominal wallvas deferenshuman fetusventricular zoneprimitive streak
+
+Top expressed Pineapple in
+
+fetal liver hematopoietic progenitor cellcalvariatail of embryospermatocyteseminiferous tubuleabdominal wallvas deferenshuman fetusventricular zoneprimitive streak
+
+More reference expression data
+
+More reference expression data
+
+More reference expression data
+
+Gene ontologyMolecular function
+protein binding
+metal ion binding
+histone acetyltransferase activity
+histone binding
+Cellular component
+nucleus
+npBAF complex
+histone acetyltransferase complex
+Biological process
+regulation of transcription, DNA-templated
+transcription, DNA-templated
+nervous system development
+histone acetylation
+negative regulation of transcription, DNA-templated
+positive regulation of transcription by RNA polymerase II
+Sources:Amigo / QuickGO
+
+Molecular function
+
+protein binding
+metal ion binding
+histone acetyltransferase activity
+histone binding
+
+Cellular component
+
+nucleus
+npBAF complex
+histone acetyltransferase complex
+
+Biological process
+
+regulation of transcription, DNA-templated
+transcription, DNA-templated
+nervous system development
+histone acetylation
+negative regulation of transcription, DNA-templated
+positive regulation of transcription by RNA polymerase II
+
+Sources:Amigo / QuickGO
+
+OrthologsSpeciesHumanMouseEntrez5527472057EnsemblENSG00000130024ENSMUSG00000023883UniProtQ8WUB8Q9D8M7RefSeq (mRNA)NM_133325NM_018288NM_024250NM_001360983RefSeq (protein)NP_060758NP_579866NP_077212NP_001347912Location (UCSC)Chr 6: 169.7 – 169.73 MbChr 17: 15.17 – 15.18 MbPubMed search
+
+Human
+
+Mouse
+
+55274
+
+55274
+
+72057
+
+72057
+
+ENSG00000130024
+
+ENSG00000130024
+
+ENSMUSG00000023883
+
+ENSMUSG00000023883
+
+Q8WUB8
+
+Q8WUB8
+
+Q9D8M7
+
+Q9D8M7
+
+NM_133325NM_018288
+
+NM_133325NM_018288
+
+NM_024250NM_001360983
+
+NM_024250NM_001360983
+
+NP_060758NP_579866
+
+NP_060758NP_579866
+
+NP_077212NP_001347912
+
+NP_077212NP_001347912
+
+Chr 6: 169.7 – 169.73 Mb
+
+Chr 17: 15.17 – 15.18 Mb
+
+
+
+
+
+Wikidata
+
+View/Edit HumanView/Edit Mouse
+
+View/Edit Human
+
+View/Edit Mouse
+
+PHD finger protein 10 is a protein that in humans is encoded by the PHF10 gene.

@@ -1,0 +1,34 @@
+datasets:
+  wikipedia_articles:
+    path: json_files/wikipedia_113.json
+    type: file
+
+default_model: gpt-4o-mini
+
+system_prompt:
+  dataset_description: a collection of Wikipedia articles containing hidden names of different fruits
+  persona: a language model specialized in analyzing text to extract hidden or implied entities
+
+operations:
+  - name: extract_hidden_fruits
+    type: map
+    output:
+      schema:
+        hidden_fruits: list[str]
+    prompt: |
+      Analyze the following Wikipedia article:
+      {{ input.src }}
+      
+      Identify and list all fruit names mentioned explicitly or implicitly (hidden references such as idioms, metaphors, or indirect mentions).
+      If no fruit names are found, return an empty list.
+
+pipeline:
+  steps:
+    - name: hidden_fruit_extraction
+      input: wikipedia_articles
+      operations:
+        - extract_hidden_fruits
+  output:
+    type: file
+    path: results/wikipedia_113.json
+    intermediate_dir: intermediate_results

@@ -1,0 +1,163 @@
+Title: Tropomodulin 2
+
+TMOD2, N-TMOD, NTMOD, tropomodulin 2
+
+OMIM: 602928; MGI: 1355335; HomoloGene: 22817; GeneCards: TMOD2; OMA:TMOD2 - orthologs
+
+Gene location (Human)Chr.Chromosome 15 (human)Band15q21.2Start51,751,597 bpEnd51,816,363 bp
+
+Chromosome 15 (human)
+
+15q21.2
+
+51,751,597 bp
+
+51,816,363 bp
+
+Gene location (Mouse)Chr.Chromosome 9 (mouse)Band9 D|9 42.31 cMStart75,472,903 bpEnd75,518,607 bp
+
+Chromosome 9 (mouse)
+
+9 D|9 42.31 cM
+
+75,472,903 bp
+
+75,518,607 bp
+
+RNA expression patternBgeeHumanMouse (ortholog)Top expressed inBrodmann area 23endothelial cellmiddle temporal gyruslateral nuclear group of thalamusprimary visual cortexentorhinal cortexpars compactaParietal Lobeexternal globus palliduspostcentral gyrusTop expressed inlateral septal nucleusventromedial nucleuslateral geniculate nucleusvisual cortexanterior amygdaloid areaprimary visual cortexlateral hypothalamusmammillary bodyprimary motor cortexdentate gyrus of hippocampal formation granule cellMore reference expression dataBioGPSn/a
+
+HumanMouse (ortholog)Top expressed inBrodmann area 23endothelial cellmiddle temporal gyruslateral nuclear group of thalamusprimary visual cortexentorhinal cortexpars compactaParietal Lobeexternal globus palliduspostcentral gyrusTop expressed inlateral septal nucleusventromedial nucleuslateral geniculate nucleusvisual cortexanterior amygdaloid areaprimary visual cortexlateral hypothalamusmammillary bodyprimary motor cortexdentate gyrus of hippocampal formation granule cellMore reference expression data
+
+Top expressed inBrodmann area 23endothelial cellmiddle temporal gyruslateral nuclear group of thalamusprimary visual cortexentorhinal cortexpars compactaParietal Lobeexternal globus palliduspostcentral gyrus
+
+Top expressed in
+
+Brodmann area 23endothelial cellmiddle temporal gyruslateral nuclear group of thalamusprimary visual cortexentorhinal cortexpars compactaParietal Lobeexternal globus palliduspostcentral gyrus
+
+Top expressed inlateral septal nucleusventromedial nucleuslateral geniculate nucleusvisual cortexanterior amygdaloid areaprimary visual cortexlateral hypothalamusmammillary bodyprimary motor cortexdentate gyrus of hippocampal formation granule cell
+
+Top expressed in
+
+lateral septal nucleusventromedial nucleuslateral geniculate nucleusvisual cortexanterior amygdaloid areaprimary visual cortexlateral hypothalamusmammillary bodyprimary motor cortexdentate gyrus of hippocampal formation granule cell
+
+More reference expression data
+
+n/a
+
+n/a
+
+Gene ontologyMolecular function
+actin binding
+tropomyosin binding
+Cellular component
+cytoplasm
+growth cone
+neuron projection
+cytoskeleton
+striated muscle thin filament
+myofibril
+Biological process
+pointed-end actin filament capping
+positive regulation of G protein-coupled receptor signaling pathway
+neuron-neuron synaptic transmission
+nervous system development
+learning or memory
+muscle contraction
+actin filament organization
+myofibril assembly
+Sources:Amigo / QuickGO
+
+Molecular function
+
+actin binding
+tropomyosin binding
+
+Cellular component
+
+cytoplasm
+growth cone
+neuron projection
+cytoskeleton
+striated muscle thin filament
+myofibril
+
+Biological process
+
+pointed-end actin filament capping
+positive regulation of G protein-coupled receptor signaling pathway
+neuron-neuron synaptic transmission
+nervous system development
+learning or memory
+muscle contraction
+actin filament organization
+myofibril assembly
+
+Sources:Amigo / QuickGO
+
+OrthologsSpeciesHumanMouseEntrez2976750876EnsemblENSG00000128872ENSMUSG00000032186UniProtQ9NZR1Q9JKK7RefSeq (mRNA)NM_014548NM_001142885NM_001038710NM_016711RefSeq (protein)NP_001136357NP_055363NP_001033799NP_057920Location (UCSC)Chr 15: 51.75 – 51.82 MbChr 9: 75.47 – 75.52 MbPubMed search
+
+Human
+
+Mouse
+
+29767
+
+29767
+
+50876
+
+50876
+
+ENSG00000128872
+
+ENSG00000128872
+
+ENSMUSG00000032186
+
+ENSMUSG00000032186
+
+Q9NZR1
+
+Papaya Q9NZR1
+
+Q9JKK7
+
+Q9JKK7
+
+NM_014548NM_001142885
+
+NM_014548NM_001142885
+
+NM_001038710NM_016711
+
+NM_001038710NM_016711
+
+NP_001136357NP_055363
+
+NP_001136357NP_055363
+
+NP_001033799NP_057920
+
+NP_001033799NP_057920
+
+Chr 15: 51.75 – 51.82 Mb
+
+Chr 9: 75.47 – 75.52 Mb
+
+
+
+
+
+Wikidata
+
+View/Edit HumanView/Edit Mouse
+
+View/Edit Human
+
+View/Edit Mouse
+
+Tropomodulin 2 (neuronal) also known as TMOD2 is a protein which in humans is encoded by the TMOD2 gene.
+
+This gene encodes a neuronal-specific member of the tropomodulin family of actin-regulatory proteins. The encoded protein caps the pointed end of actin filaments preventing both elongation and depolymerization. The capping activity of this protein is dependent on its association with tropomyosin. Alternatively spliced transcript variants encoding different isoforms have been described.
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.
