@@ -1,6 +1,6 @@
 datasets:
   wikipedia_articles:
-    path: json_files/wikipedia_113.json
+    path: /home/staru/Desktop/main/json/wikipedia_first.json
     type: file
 
 default_model: gpt-4o-mini
@@ -30,5 +30,5 @@ pipeline:
         - extract_hidden_fruits
   output:
     type: file
-    path: results/wikipedia_113.json
+    path: /home/staru/Desktop/main/output/wikipedia_first.json
     intermediate_dir: intermediate_results
